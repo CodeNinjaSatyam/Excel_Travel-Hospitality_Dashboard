@@ -1,5 +1,6 @@
 # Excel_Travel-Hospitality_Dashboard
 # Sky Analytics: Navigating the Complexities of Airline and Airport Operations
+![Screenshot 2024-04-08 011424](https://github.com/CodeNinjaSatyam/Excel_Travel-Hospitality_Dashboard/assets/148047911/b5616fa2-6514-4fd1-befb-8afce689ebdb)
 
 ## Background:
 
